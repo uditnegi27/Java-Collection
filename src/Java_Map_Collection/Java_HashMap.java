@@ -16,6 +16,7 @@ public class Java_HashMap {
         map.put(3, "Prachi");
         map.put(4, "Gaurav");
 
+<<<<<<< HEAD
 //      Printing a HashMap data
         System.out.println(map);
         
@@ -23,6 +24,10 @@ public class Java_HashMap {
         for(int i=1; i<=map.size(); i++) {
         	System.out.println(map.get(i));
         }
+=======
+//        Printing a HashMap data
+        System.out.println(map);
+>>>>>>> 8b3a3c6834bc84a42b98408c21247c9033f3eebf
 
     }
 }
