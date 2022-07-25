@@ -34,7 +34,6 @@ public class Java_TreeSet {
 		
 //		Printing an elements of HashSet after removing
 		System.out.println(set);
-		System.out.println(set);
 
 	}
 
