@@ -16,8 +16,13 @@ public class Java_HashMap {
         map.put(3, "Prachi");
         map.put(4, "Gaurav");
 
-//        Printing a HashMap data
+//      Printing a HashMap data
         System.out.println(map);
+        
+//      Print the value in a loop
+        for(int i=1; i<=map.size(); i++) {
+        	System.out.println(map.get(i));
+        }
 
     }
 }
